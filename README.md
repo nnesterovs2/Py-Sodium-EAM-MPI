@@ -10,8 +10,8 @@ The simulation parameters defined in the if __name__ == "__main__": block at the
 
 By default, Main.py has parameters set to simulate Sodium, but other parameters needed for the usage of said potential, as well as better understanding of the potentials nature could be derived from A. Nichol and G. J. Ackland, Phys. Rev. B 93, 184101 (2016)
 
-#
-*Author: Ņikita Ņesterovs, 12. grade
-*Supervisor: Svetlana Šitkina, Riga Secondary school No 10. physics teacher
-*Consultants: Rostislavs Rostovskis, B. Sc. Chem., LU Faculty of Science and Technology
-*Daņiils Kargins, Nanyang Technological University College of Science
+##
+* **Author: Ņikita Ņesterovs, 12. grade
+* **Supervisor: Svetlana Šitkina, Riga Secondary school No 10. physics teacher
+* **Consultants: Rostislavs Rostovskis, B. Sc. Chem., LU Faculty of Science and Technology
+* **Daņiils Kargins, Nanyang Technological University College of Science
